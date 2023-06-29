@@ -1,4 +1,4 @@
-# pycommons-b{{project_name}}
+# pycommons-{{project_name}}
 
 [![PyPI](https://img.shields.io/pypi/v/pycommons-{{project_name}})](https://pypi.org/project/pycommons-{{project_name}}/)
 ![versions](https://img.shields.io/pypi/pyversions/pycommons-{{project_name}}.svg)
